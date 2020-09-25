@@ -11,8 +11,8 @@ import java.util.Map;
 
 public class RandomOrderGenerator {
 
-	public static final int WHITE_FLOWERS = 10;
-	public static final int RED_FLOWERS = 5;
+	public static final int WHITE_FLOWERS = 5;
+	public static final int RED_FLOWERS = 6;
 	public static final int YELLOW_FLOWERS = 5;
 	public static final Logger LOGGER = LoggerFactory.getLogger(RandomOrderGenerator.class);
 
